@@ -99,7 +99,7 @@ public class GalleryAccess : MonoBehaviour
 }
 ```
 
-13. Una vez copiado el código añadir el script a ambos botones.
-14. Ir a File, Build Settings ...
-15. Dar clic  en "Add Open Scenes" y Build
-16. Probar
+15. Una vez copiado el código añadir el script a ambos botones.
+16. Ir a File, Build Settings ...
+17. Dar clic  en "Add Open Scenes" y Build
+18. Probar
