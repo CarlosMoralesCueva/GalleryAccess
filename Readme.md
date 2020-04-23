@@ -8,7 +8,7 @@
 
 ### Creación del programa
 
-1. Iniciar Unity Hub y crear un nuevo programa 3D llamado GalleryAccess.
+1. Iniciar Unity Hub y crear un nuevo programa 3D llamado GalleryAccess
 2. Ir a File, Build Settings ...
 3. Seleccionar Android, dar clic en Switch Platform
 4. En la parte inferior izquierda dar clic en Player Settings ...
