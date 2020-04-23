@@ -15,13 +15,13 @@
 5. Ir a Write Permission y cambiar a: External (SDCard)
 6. En la pestaña Game cambiar la resolución de pestaña a 16:9 Portrait (9:16)
 7. Dar clic derecho en la escena, UI, Button
-7.1. Darle nombre: Select_image, posicionarla: Pos Y: 400, Width: 200, Height: 50, como texto colocar: Seleccionar imagen
-8. Dar clic derecho en la escena, UI, Button
-8.1. Darle nombre: Select_video, posicionarla: Pos Y: 350, Width: 200, Height: 50, como texto colocar: Seleccionar video
-9. Importar plugin desde Asset Store: Native Gallery for Android & iOS
-10. En la parte inferior, en Assets dar clic derecho y crear la carpeta Scripts
-11. En esta carpeta crear un script de C# con el nombre de GalleryAccess
-12. Copiar el siguiente código en el script
+8. Darle nombre: Select_image, posicionarla: Pos Y: 400, Width: 200, Height: 50, como texto colocar: Seleccionar imagen
+9. Dar clic derecho en la escena, UI, Button
+10. Darle nombre: Select_video, posicionarla: Pos Y: 350, Width: 200, Height: 50, como texto colocar: Seleccionar video
+11. Importar plugin desde Asset Store: Native Gallery for Android & iOS
+12. En la parte inferior, en Assets dar clic derecho y crear la carpeta Scripts
+13. En esta carpeta crear un script de C# con el nombre de GalleryAccess
+14. Copiar el siguiente código en el script
 
 ```c#
 using UnityEngine;
