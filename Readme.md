@@ -3,8 +3,8 @@
 
 ### Pasos previos 
 
-*Instalar la versión 2019.3.7f1 de Unity*
-*Si se desea hacer debug en el teléfono Android descargar de Play Store Unity Remote 5*
+* Instalar la versión 2019.3.7f1 de Unity
+* Si se desea hacer debug en el teléfono Android descargar de Play Store Unity Remote 5
 
 ### Creación del programa
 
