@@ -1,1 +1,2 @@
-#Programa desarrollado en Unity que accede a la galerÌa de un telÈfono Android para mostrar im·genes y videos
+# Programa desarrollado en Unity que accede a la galer√≠a de un tel√©fono Android para mostrar im√°genes y videos
+
